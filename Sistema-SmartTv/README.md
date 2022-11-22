@@ -16,4 +16,4 @@ JAVA
 ## Desenvolvimento
 
 O Exercício foi desenvolvido mediante instruções e aulas prévias fornecidas durante o curso "Potência Tech powered by iFood - Java Beginners",
-na plataforma da https://web.dio.me/home
+na plataforma da https://web.dio.me/home 
